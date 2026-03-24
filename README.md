@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Davi 👋
+# Hola, soy David 👋
 ### Desarrollador en formación | Python · Django · Web
 
 [![GitHub followers](https://img.shields.io/github/followers/TuUsuario?style=social)](https://github.com/TuUsuario)
