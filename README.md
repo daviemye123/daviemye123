@@ -9,7 +9,7 @@
 
 ---
 
-## 🙋‍♂️ Sobre mí
+##  Sobre mí
 
 Soy un desarrollador en crecimiento, apasionado por construir soluciones web funcionales y bien diseñadas.
 Actualmente trabajo con **Django** en proyectos reales y sigo aprendiendo cada día.
