@@ -15,8 +15,7 @@ Soy un desarrollador en crecimiento, apasionado por construir soluciones web fun
 Actualmente trabajo con **Django** en proyectos reales y sigo aprendiendo cada día.
 
 - 🔭 Trabajando en **Artes & Estilos** — sistema de gestión para una florería
-- 🌱 Profundizando en **Django**, **PostgreSQL** y desarrollo backend
-- 🎯 Meta 2025: contribuir a proyectos open source
+- 🌱 Profundizando en **Django**, **PostgreSQL** y desarrollo full stack
 - 📍 Colombia
 
 ---
@@ -68,8 +67,3 @@ Actualmente trabajo con **Django** en proyectos reales y sigo aprendiendo cada d
 
 </div>
 
----
-
-<div align="center">
-  <i>✨ "El mejor código es el que resuelve problemas reales."</i>
-</div>
